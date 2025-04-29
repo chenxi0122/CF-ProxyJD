@@ -1,2 +1,2 @@
 # CF-ProxyJD
-This project is a tutorial on setting up a VPN for CF
+This project is a "worker.js" on setting up a VPN for CF
